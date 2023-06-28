@@ -1,0 +1,39 @@
+{
+    "1683120234325546:1208371": {
+        "IFileManager": {
+            "path": "Files/File_1683120234325546_1208371"
+        }
+    },
+    "1683120234328245:1208372": {
+        "IResourceController": {
+            "name": "Volume Gif New",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683120234331450:1208375",
+            "fileId": "1683120234325546:1208371",
+            "originalId": "1683120234332366:1208382",
+            "publicId": "1683120234352191:1208403",
+            "expected_hash": "025cbb1cf67809c59c25559dd79df988"
+        },
+        "IResourceManager": {
+            "uid": "1683120234331450:1208375",
+            "name": "Files/File_1683120234325546_1208371",
+            "flags": 1
+        }
+    },
+    "1683120234332366:1208382": {
+        "IFileManager": {
+            "path": "Files/File_1683120234332366_1208382.gif"
+        }
+    },
+    "1683120234352191:1208403": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Effect/Volume Gif New.gif",
+                "hash": "b21964e2e90d8303c175067f0e2b6d3c"
+            }
+        }
+    }
+}

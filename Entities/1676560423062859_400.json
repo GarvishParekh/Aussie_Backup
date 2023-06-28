@@ -1,0 +1,20 @@
+{
+    "1676560423062193:350": {
+        "IResourceController": {
+            "public": {
+                "path": "Videos"
+            }
+        }
+    },
+    "1676560423062859:400": {
+        "IResourceController": {
+            "name": "Videos",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1676560423062193:350",
+            "resources": []
+        }
+    }
+}

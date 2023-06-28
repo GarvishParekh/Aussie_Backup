@@ -1,0 +1,76 @@
+{
+    "1682424145408805:38445": {
+        "IFileManager": {
+            "path": "Files/File_1682424145408805_38445"
+        }
+    },
+    "1682424145416137:38446": {
+        "IResourceController": {
+            "name": "P_Curl Stroke",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424145420516:38449",
+            "fileId": "1682424145408805:38445",
+            "originalId": "1682424145421761:38456",
+            "publicId": "1682424145483096:38458",
+            "expected_hash": "9aeb2a79a33272fe71e0cbc802f5dc32"
+        },
+        "IResourceManager": {
+            "uid": "1682424145420516:38449",
+            "name": "Files/File_1682424145408805_38445",
+            "flags": 1
+        }
+    },
+    "1682424145420516:38449": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ed9894dc5940a8d2c3cfae87bc1b4135"
+                    },
+                    "v": "1682424147178266:38665"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "14632992",
+                "compressedSize": "61594",
+                "extension": "t3d",
+                "originalRAM": "14632992",
+                "originalSize": "396326",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424145433964:38457"
+        }
+    },
+    "1682424145421761:38456": {
+        "IFileManager": {
+            "path": "Files/File_1682424145421761_38456.gif"
+        }
+    },
+    "1682424145433964:38457": {
+        "IFileManager": {
+            "path": "Files/File_1682424145433964_38457"
+        }
+    },
+    "1682424145483096:38458": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/Purple/P_Curl Stroke.gif",
+                "hash": "06ba3b8eac09673ff0e63d0462adafa0"
+            }
+        }
+    },
+    "1682424147178266:38665": {
+        "IFileManager": {
+            "path": "Files/File_1682424147178266_38665"
+        }
+    }
+}

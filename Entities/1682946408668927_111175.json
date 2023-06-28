@@ -1,0 +1,39 @@
+{
+    "1682946408664044:111174": {
+        "IFileManager": {
+            "path": "Files/File_1682946408664044_111174"
+        }
+    },
+    "1682946408668927:111175": {
+        "IResourceController": {
+            "name": "Freeze effect",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682946408672122:111178",
+            "fileId": "1682946408664044:111174",
+            "originalId": "1682946408672606:111185",
+            "publicId": "1682946408681596:111186",
+            "expected_hash": "882739e4ec84b68cc6adb010a0031b75"
+        },
+        "IResourceManager": {
+            "uid": "1682946408672122:111178",
+            "name": "Files/File_1682946408664044_111174",
+            "flags": 1
+        }
+    },
+    "1682946408672606:111185": {
+        "IFileManager": {
+            "path": "Files/File_1682946408672606_111185.gif"
+        }
+    },
+    "1682946408681596:111186": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Effect/Freeze effect.gif",
+                "hash": "57dea11abeb5ab20edbe42d8df71b6f0"
+            }
+        }
+    }
+}

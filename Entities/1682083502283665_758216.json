@@ -1,0 +1,43 @@
+{
+    "1682083502276352:758215": {
+        "IFileManager": {
+            "path": "Files/File_1682083502276352_758215"
+        }
+    },
+    "1682083502283665:758216": {
+        "IResourceController": {
+            "name": "Hint_Tap_No_Dot",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682083502306811:758219",
+            "fileId": "1682083502276352:758215",
+            "originalId": "1682083502317049:758226",
+            "publicId": "1682083502375670:758242",
+            "expected_hash": "745c3031d678f151e333b08e7bc9a88a",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682083502306811:758219",
+            "name": "Files/File_1682083502276352_758215",
+            "flags": 1
+        }
+    },
+    "1682083502317049:758226": {
+        "IFileManager": {
+            "path": "Files/File_1682083502317049_758226"
+        }
+    },
+    "1682083502375670:758242": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Hint_Tap_No_Dot",
+                "hash": "745c3031d678f151e333b08e7bc9a88a",
+                "complexResourceHash": "6a6fc6e373e5df7785c849aaf8fbf516"
+            }
+        }
+    }
+}

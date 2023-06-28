@@ -1,0 +1,42 @@
+{
+    "1682340925188284:1068437": {
+        "IFileManager": {
+            "path": "Files/File_1682340925188284_1068437.png"
+        }
+    },
+    "1682340925189970:1068438": {
+        "IResourceController": {
+            "name": "Hue Saturation",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682340925192906:1068439",
+            "fileId": "1682340925188284:1068437",
+            "originalId": "1682340925193342:1068444",
+            "publicId": "1682340925196568:1068445",
+            "expected_hash": "01538e97d9636c79a5ccb0b540ec23b4",
+            "additional": {
+                "originHash": "dbb9ffe5c53331a235eb54bfd3cc331e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682340925192906:1068439",
+            "name": "Files/File_1682340925188284_1068437.png",
+            "flags": 1
+        }
+    },
+    "1682340925193342:1068444": {
+        "IFileManager": {
+            "path": "Files/File_1682340925193342_1068444.png"
+        }
+    },
+    "1682340925196568:1068445": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Screen_1/Hue Saturation.png",
+                "hash": "dbb9ffe5c53331a235eb54bfd3cc331e"
+            }
+        }
+    }
+}

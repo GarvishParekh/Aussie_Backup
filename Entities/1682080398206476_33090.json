@@ -1,0 +1,27 @@
+{
+    "1682080398206476:33090": {
+        "IResourceController": {
+            "name": "Selfie Side Texture",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682080398206659:33091",
+            "resources": [
+                "1682080856840646:160358",
+                "1682339049266648:88882",
+                "1682339049475540:89034",
+                "1682339049608237:89333",
+                "1682340924999545:1068314",
+                "1683117649854753:1810003"
+            ]
+        }
+    },
+    "1682080398206659:33091": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture"
+            }
+        }
+    }
+}

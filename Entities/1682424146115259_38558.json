@@ -1,0 +1,76 @@
+{
+    "1682424146105792:38557": {
+        "IFileManager": {
+            "path": "Files/File_1682424146105792_38557"
+        }
+    },
+    "1682424146115259:38558": {
+        "IResourceController": {
+            "name": "P_Harry Potter 1",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424146120476:38561",
+            "fileId": "1682424146105792:38557",
+            "originalId": "1682424146121105:38568",
+            "publicId": "1682424146145263:38570",
+            "expected_hash": "8ae94563e4d7308c391aee25dcaee3c8"
+        },
+        "IResourceManager": {
+            "uid": "1682424146120476:38561",
+            "name": "Files/File_1682424146105792_38557",
+            "flags": 1
+        }
+    },
+    "1682424146120476:38561": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0f9afdfffcfe00f1ba665531dac6f994"
+                    },
+                    "v": "1682424148241228:40162"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "3590400",
+                "compressedSize": "19533",
+                "extension": "t3d",
+                "originalRAM": "3590400",
+                "originalSize": "101304",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424146130100:38569"
+        }
+    },
+    "1682424146121105:38568": {
+        "IFileManager": {
+            "path": "Files/File_1682424146121105_38568.gif"
+        }
+    },
+    "1682424146130100:38569": {
+        "IFileManager": {
+            "path": "Files/File_1682424146130100_38569"
+        }
+    },
+    "1682424146145263:38570": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/Purple/P_Harry Potter 1.gif",
+                "hash": "2bd3ced0c7e5972d60ef35f961d3fc03"
+            }
+        }
+    },
+    "1682424148241228:40162": {
+        "IFileManager": {
+            "path": "Files/File_1682424148241228_40162"
+        }
+    }
+}

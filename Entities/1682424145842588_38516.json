@@ -1,0 +1,76 @@
+{
+    "1682424145838395:38515": {
+        "IFileManager": {
+            "path": "Files/File_1682424145838395_38515"
+        }
+    },
+    "1682424145842588:38516": {
+        "IResourceController": {
+            "name": "P_Sun Stroke",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424145846119:38519",
+            "fileId": "1682424145838395:38515",
+            "originalId": "1682424145846579:38526",
+            "publicId": "1682424145875574:38528",
+            "expected_hash": "5952231da15f3fc7d91f9d7b53208a2a"
+        },
+        "IResourceManager": {
+            "uid": "1682424145846119:38519",
+            "name": "Files/File_1682424145838395_38515",
+            "flags": 1
+        }
+    },
+    "1682424145846119:38519": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cecf365b96359ab8c1294f8ab6ea75c7"
+                    },
+                    "v": "1682424147825783:40139"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "3219456",
+                "compressedSize": "46712",
+                "extension": "t3d",
+                "originalRAM": "3219456",
+                "originalSize": "220566",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424145856731:38527"
+        }
+    },
+    "1682424145846579:38526": {
+        "IFileManager": {
+            "path": "Files/File_1682424145846579_38526.gif"
+        }
+    },
+    "1682424145856731:38527": {
+        "IFileManager": {
+            "path": "Files/File_1682424145856731_38527"
+        }
+    },
+    "1682424145875574:38528": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/Purple/P_Sun Stroke.gif",
+                "hash": "a2bdae1619d85b4047ce43198108ecde"
+            }
+        }
+    },
+    "1682424147825783:40139": {
+        "IFileManager": {
+            "path": "Files/File_1682424147825783_40139"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1682598894340644:827376": {
+        "IFileManager": {
+            "path": "Files/File_1682598894340644_827376.pvr"
+        }
+    },
+    "1682598894344310:827377": {
+        "IResourceController": {
+            "name": "Volume Background",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682598894349849:827378",
+            "fileId": "1682598894340644:827376",
+            "originalId": "1682598894350262:827383",
+            "publicId": "1682598894377046:827405",
+            "expected_hash": "1c223c5947c612e792aa9b844c7989d8",
+            "additional": {
+                "originHash": "68911a703fa7ac913ec00104abf1eca0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682598894349849:827378",
+            "name": "Files/File_1682598894340644_827376.jpg",
+            "flags": 1
+        }
+    },
+    "1682598894349849:827378": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "68911a703fa7ac913ec00104abf1eca0"
+                    },
+                    "v": "1683031181872192:1486305"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "561600",
+                "compressedSize": "68813",
+                "extension": "jpg",
+                "originalRAM": "4487040",
+                "originalSize": "105799",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682598894355496:827402"
+        }
+    },
+    "1682598894350262:827383": {
+        "IFileManager": {
+            "path": "Files/File_1682598894350262_827383.jpg"
+        }
+    },
+    "1682598894355496:827402": {
+        "IFileManager": {
+            "path": "Files/File_1682598894355496_827402.jpg"
+        }
+    },
+    "1682598894377046:827405": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Background/Volume Background.jpg",
+                "hash": "68911a703fa7ac913ec00104abf1eca0"
+            }
+        }
+    },
+    "1683031181872192:1486305": {
+        "IFileManager": {
+            "path": "Files/File_1683031181872192_1486305.pvr"
+        }
+    }
+}

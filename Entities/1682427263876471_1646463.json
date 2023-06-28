@@ -1,0 +1,39 @@
+{
+    "1682427263876471:1646463": {
+        "IResourceController": {
+            "name": "BokehVFX__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682427263876411:1646460",
+            "fileId": "1682427263909261:1646481",
+            "originalId": "1682427490665330:1790705",
+            "publicId": "1682427264808230:1646924",
+            "expected_hash": "c830c94ea09b4f5141bda7240e9e68b5"
+        },
+        "IResourceManager": {
+            "uid": "1682427263876411:1646460",
+            "name": "sceneObject_26",
+            "flags": 0
+        }
+    },
+    "1682427263909261:1646481": {
+        "IFileManager": {
+            "path": "Files/File_1682427263909261_1646481.oprfb"
+        }
+    },
+    "1682427264808230:1646924": {
+        "IResourceController": {
+            "public": {
+                "path": "BokehVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "fceeda0cde7f6048c5dd739682c345b5"
+            }
+        }
+    },
+    "1682427490665330:1790705": {
+        "IFileManager": {
+            "path": "Files/File_1682427490665330_1790705.oprfb"
+        }
+    }
+}

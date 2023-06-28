@@ -1,0 +1,25 @@
+{
+    "1682341284428618:1296916": {
+        "IResourceController": {
+            "name": "Custom Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682341284428870:1296917",
+            "resources": [
+                "1682341294149041:1301001",
+                "1682507441843190:539792",
+                "1682509734177379:2046557",
+                "1682602345684140:58525"
+            ]
+        }
+    },
+    "1682341284428870:1296917": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Scripts"
+            }
+        }
+    }
+}

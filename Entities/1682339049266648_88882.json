@@ -1,0 +1,27 @@
+{
+    "1682339049266648:88882": {
+        "IResourceController": {
+            "name": "Quiz Effect",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682339049266898:88883",
+            "resources": [
+                "1682339049275982:88893",
+                "1682339049307884:88917",
+                "1682339049322497:88927",
+                "1682339049342038:88951",
+                "1682339049381801:88961",
+                "1682339049419226:88985"
+            ]
+        }
+    },
+    "1682339049266898:88883": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Quiz Effect"
+            }
+        }
+    }
+}

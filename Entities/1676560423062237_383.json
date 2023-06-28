@@ -1,0 +1,22 @@
+{
+    "1676560423062191:342": {
+        "IResourceController": {
+            "public": {
+                "path": "Physics"
+            }
+        }
+    },
+    "1676560423062237:383": {
+        "IResourceController": {
+            "name": "Physics",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1676560423062191:342",
+            "resources": [
+                "1676560423062146:287"
+            ]
+        }
+    }
+}

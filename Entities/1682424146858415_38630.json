@@ -1,0 +1,76 @@
+{
+    "1682424146854196:38629": {
+        "IFileManager": {
+            "path": "Files/File_1682424146854196_38629"
+        }
+    },
+    "1682424146858415:38630": {
+        "IResourceController": {
+            "name": "W_Strokes",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424146862288:38633",
+            "fileId": "1682424146854196:38629",
+            "originalId": "1682424146863092:38640",
+            "publicId": "1682424146902693:38642",
+            "expected_hash": "dc62b532af8282fa9486de86fd703c39"
+        },
+        "IResourceManager": {
+            "uid": "1682424146862288:38633",
+            "name": "Files/File_1682424146854196_38629",
+            "flags": 1
+        }
+    },
+    "1682424146862288:38633": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c980eb2c6c78f01a92c17382e660ce9d"
+                    },
+                    "v": "1682424149983892:42278"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "15451392",
+                "compressedSize": "181271",
+                "extension": "t3d",
+                "originalRAM": "15451392",
+                "originalSize": "526067",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424146873334:38641"
+        }
+    },
+    "1682424146863092:38640": {
+        "IFileManager": {
+            "path": "Files/File_1682424146863092_38640.gif"
+        }
+    },
+    "1682424146873334:38641": {
+        "IFileManager": {
+            "path": "Files/File_1682424146873334_38641"
+        }
+    },
+    "1682424146902693:38642": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/White/W_Strokes.gif",
+                "hash": "e0eb2f38437e4588c693b5271fe54e2b"
+            }
+        }
+    },
+    "1682424149983892:42278": {
+        "IFileManager": {
+            "path": "Files/File_1682424149983892_42278"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "lens_id": "",
+    "document_id": "Cjj18Y3jEPYifc_wBH6C",
+    "original_document_id": "uQwBQP4SrFTXDdZTnG9k",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "19",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "3c5a04e0c4bc7afba60fb987d8ce99eb",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Aussie SpringStyle",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Hint",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1682083502430176:758272",
+                    "v": "4r856gH7zOj7hrNIhuxc61"
+                },
+                {
+                    "k": "1682427263876411:1646460",
+                    "v": "2bIIoq4uRMCHr7fmOPOgeT"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1682427278557995:1653688",
+                        "v": {
+                            "prefab": "1682427263876411:1646460",
+                            "mapping": [
+                                {
+                                    "k": "1682427264803058:1646901",
+                                    "v": "1682427278557995:1653688"
+                                },
+                                {
+                                    "k": "1682427264803075:1646902",
+                                    "v": "1682427278559441:1653708"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.19.0"
+}

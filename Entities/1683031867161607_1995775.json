@@ -1,0 +1,79 @@
+{
+    "1683031867149326:1995772": {
+        "IFileManager": {
+            "path": "Files/File_1683031867149326_1995772.pvr"
+        }
+    },
+    "1683031867161607:1995775": {
+        "IResourceController": {
+            "name": "Result Screen BG 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683031867169388:1995794",
+            "fileId": "1683031867149326:1995772",
+            "originalId": "1683031867173104:1995799",
+            "publicId": "1683031867293657:1995863",
+            "expected_hash": "f492001eb70063b21d1f7c50bbc84014",
+            "additional": {
+                "originHash": "29f886c45a8cb6e7797da6fd359350df"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683031867169388:1995794",
+            "name": "Files/File_1683031867149326_1995772.png",
+            "flags": 1
+        }
+    },
+    "1683031867169388:1995794": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "29f886c45a8cb6e7797da6fd359350df"
+                    },
+                    "v": "1683031887956561:2014659"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "561600",
+                "compressedSize": "546272",
+                "extension": "png",
+                "originalRAM": "4487040",
+                "originalSize": "2893274",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683031867206635:1995812"
+        }
+    },
+    "1683031867173104:1995799": {
+        "IFileManager": {
+            "path": "Files/File_1683031867173104_1995799.png"
+        }
+    },
+    "1683031867206635:1995812": {
+        "IFileManager": {
+            "path": "Files/File_1683031867206635_1995812.png"
+        }
+    },
+    "1683031867293657:1995863": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Result Screen/Result Screen BG 2.png",
+                "hash": "29f886c45a8cb6e7797da6fd359350df"
+            }
+        }
+    },
+    "1683031887956561:2014659": {
+        "IFileManager": {
+            "path": "Files/File_1683031887956561_2014659.pvr"
+        }
+    }
+}

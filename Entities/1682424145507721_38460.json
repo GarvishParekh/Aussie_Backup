@@ -1,0 +1,76 @@
+{
+    "1682424145503703:38459": {
+        "IFileManager": {
+            "path": "Files/File_1682424145503703_38459"
+        }
+    },
+    "1682424145507721:38460": {
+        "IResourceController": {
+            "name": "P_Pain Stroke",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424145511195:38463",
+            "fileId": "1682424145503703:38459",
+            "originalId": "1682424145511744:38470",
+            "publicId": "1682424145537578:38472",
+            "expected_hash": "df40170c38325823122c06160a3b48f7"
+        },
+        "IResourceManager": {
+            "uid": "1682424145511195:38463",
+            "name": "Files/File_1682424145503703_38459",
+            "flags": 1
+        }
+    },
+    "1682424145511195:38463": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f8cd47daaa9d8eb781366a13b8bb4ee5"
+                    },
+                    "v": "1682424147239630:38668"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "881280",
+                "compressedSize": "4628",
+                "extension": "t3d",
+                "originalRAM": "881280",
+                "originalSize": "22198",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424145522043:38471"
+        }
+    },
+    "1682424145511744:38470": {
+        "IFileManager": {
+            "path": "Files/File_1682424145511744_38470.gif"
+        }
+    },
+    "1682424145522043:38471": {
+        "IFileManager": {
+            "path": "Files/File_1682424145522043_38471"
+        }
+    },
+    "1682424145537578:38472": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/Purple/P_Pain Stroke.gif",
+                "hash": "b33320eefe33d5a040e08ccd8606be9a"
+            }
+        }
+    },
+    "1682424147239630:38668": {
+        "IFileManager": {
+            "path": "Files/File_1682424147239630_38668"
+        }
+    }
+}

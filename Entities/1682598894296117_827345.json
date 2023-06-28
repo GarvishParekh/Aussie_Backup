@@ -1,0 +1,79 @@
+{
+    "1682598894292473:827344": {
+        "IFileManager": {
+            "path": "Files/File_1682598894292473_827344.pvr"
+        }
+    },
+    "1682598894296117:827345": {
+        "IResourceController": {
+            "name": "Sprunch Background",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682598894300132:827346",
+            "fileId": "1682598894292473:827344",
+            "originalId": "1682598894300491:827351",
+            "publicId": "1682598894326679:827373",
+            "expected_hash": "af370e3e97af866715d663b863fe791e",
+            "additional": {
+                "originHash": "40138b52e3cdb97c0487c9ecf913e930"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682598894300132:827346",
+            "name": "Files/File_1682598894292473_827344.jpg",
+            "flags": 1
+        }
+    },
+    "1682598894300132:827346": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "40138b52e3cdb97c0487c9ecf913e930"
+                    },
+                    "v": "1683031180049539:1482714"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "561600",
+                "compressedSize": "20520",
+                "extension": "jpg",
+                "originalRAM": "4487040",
+                "originalSize": "65347",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682598894305959:827353"
+        }
+    },
+    "1682598894300491:827351": {
+        "IFileManager": {
+            "path": "Files/File_1682598894300491_827351.jpg"
+        }
+    },
+    "1682598894305959:827353": {
+        "IFileManager": {
+            "path": "Files/File_1682598894305959_827353.jpg"
+        }
+    },
+    "1682598894326679:827373": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Background/Sprunch Background.jpg",
+                "hash": "40138b52e3cdb97c0487c9ecf913e930"
+            }
+        }
+    },
+    "1683031180049539:1482714": {
+        "IFileManager": {
+            "path": "Files/File_1683031180049539_1482714.pvr"
+        }
+    }
+}

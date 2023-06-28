@@ -1,0 +1,33 @@
+{
+    "1682509734175267:2046556": {
+        "IFileManager": {
+            "path": "Files/File_1682509734175267_2046556.js"
+        }
+    },
+    "1682509734177379:2046557": {
+        "IResourceController": {
+            "name": "pointsManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682509734177413:2046558",
+            "fileId": "1682509734175267:2046556",
+            "publicId": "1682509734186449:2046565",
+            "expected_hash": "d0779012a12be74ae6d91a159ae0643c"
+        },
+        "IResourceManager": {
+            "uid": "1682509734177413:2046558",
+            "name": "Files/File_1682509734175267_2046556.js",
+            "flags": 1
+        }
+    },
+    "1682509734186449:2046565": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Scripts/pointsManager.js",
+                "hash": "d0779012a12be74ae6d91a159ae0643c"
+            }
+        }
+    }
+}

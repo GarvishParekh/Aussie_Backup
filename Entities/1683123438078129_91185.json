@@ -1,0 +1,79 @@
+{
+    "1683123438069998:91184": {
+        "IFileManager": {
+            "path": "Files/File_1683123438069998_91184.pvr"
+        }
+    },
+    "1683123438078129:91185": {
+        "IResourceController": {
+            "name": "Freeze Text",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683123438079026:91186",
+            "fileId": "1683123438069998:91184",
+            "originalId": "1683123438079613:91191",
+            "publicId": "1683123438091520:91211",
+            "expected_hash": "b80cd9a286d87fbc927a2b7cde58d223",
+            "additional": {
+                "originHash": "8663e34b33a6200a7a6f21daf3b90c36"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683123438079026:91186",
+            "name": "Files/File_1683123438069998_91184.png",
+            "flags": 1
+        }
+    },
+    "1683123438079026:91186": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8663e34b33a6200a7a6f21daf3b90c36"
+                    },
+                    "v": "1683123438877973:99046"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "22040",
+                "compressedSize": "9130",
+                "extension": "png",
+                "originalRAM": "170856",
+                "originalSize": "7973",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683123438084519:91206"
+        }
+    },
+    "1683123438079613:91191": {
+        "IFileManager": {
+            "path": "Files/File_1683123438079613_91191.png"
+        }
+    },
+    "1683123438084519:91206": {
+        "IFileManager": {
+            "path": "Files/File_1683123438084519_91206.png"
+        }
+    },
+    "1683123438091520:91211": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Final Screen Text/Freeze Text.png",
+                "hash": "8663e34b33a6200a7a6f21daf3b90c36"
+            }
+        }
+    },
+    "1683123438877973:99046": {
+        "IFileManager": {
+            "path": "Files/File_1683123438877973_99046.pvr"
+        }
+    }
+}

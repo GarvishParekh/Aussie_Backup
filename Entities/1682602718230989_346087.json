@@ -1,0 +1,79 @@
+{
+    "1682602718228482:346082": {
+        "IFileManager": {
+            "path": "Files/File_1682602718228482_346082.pvr"
+        }
+    },
+    "1682602718230989:346087": {
+        "IResourceController": {
+            "name": "Replay",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682602718231628:346088",
+            "fileId": "1682602718228482:346082",
+            "originalId": "1682602718232010:346093",
+            "publicId": "1682602718254212:346097",
+            "expected_hash": "d9f0fdd6040d020e4b150d936f50bf5d",
+            "additional": {
+                "originHash": "ed0ef153fa3705b4772c0ffefab4ba39"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682602718231628:346088",
+            "name": "Files/File_1682602718228482_346082.png",
+            "flags": 1
+        }
+    },
+    "1682602718231628:346088": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ed0ef153fa3705b4772c0ffefab4ba39"
+                    },
+                    "v": "1682602718362999:346420"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "3360",
+                "compressedSize": "2086",
+                "extension": "png",
+                "originalRAM": "25920",
+                "originalSize": "3871",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682602718246526:346094"
+        }
+    },
+    "1682602718232010:346093": {
+        "IFileManager": {
+            "path": "Files/File_1682602718232010_346093.png"
+        }
+    },
+    "1682602718246526:346094": {
+        "IFileManager": {
+            "path": "Files/File_1682602718246526_346094.png"
+        }
+    },
+    "1682602718254212:346097": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Replay.png",
+                "hash": "ed0ef153fa3705b4772c0ffefab4ba39"
+            }
+        }
+    },
+    "1682602718362999:346420": {
+        "IFileManager": {
+            "path": "Files/File_1682602718362999_346420.pvr"
+        }
+    }
+}

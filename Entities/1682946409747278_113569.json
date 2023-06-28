@@ -1,0 +1,39 @@
+{
+    "1682946409741285:113568": {
+        "IFileManager": {
+            "path": "Files/File_1682946409741285_113568"
+        }
+    },
+    "1682946409747278:113569": {
+        "IResourceController": {
+            "name": "Mega effect",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682946409750911:113572",
+            "fileId": "1682946409741285:113568",
+            "originalId": "1682946409751555:113579",
+            "publicId": "1682946409761027:113580",
+            "expected_hash": "77c84b72bea598e0b9c6ace510679d4a"
+        },
+        "IResourceManager": {
+            "uid": "1682946409750911:113572",
+            "name": "Files/File_1682946409741285_113568",
+            "flags": 1
+        }
+    },
+    "1682946409751555:113579": {
+        "IFileManager": {
+            "path": "Files/File_1682946409751555_113579.gif"
+        }
+    },
+    "1682946409761027:113580": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Effect/Mega effect.gif",
+                "hash": "76ddda48e25e9f9bb48979a0be8433dc"
+            }
+        }
+    }
+}

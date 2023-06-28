@@ -1,0 +1,79 @@
+{
+    "1682598894225337:827286": {
+        "IFileManager": {
+            "path": "Files/File_1682598894225337_827286.pvr"
+        }
+    },
+    "1682598894230584:827295": {
+        "IResourceController": {
+            "name": "Freeze Backgorund",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682598894234857:827296",
+            "fileId": "1682598894225337:827286",
+            "originalId": "1682598894235344:827301",
+            "publicId": "1682598894280300:827331",
+            "expected_hash": "8a42bf27e2280a9daf6fbc6241f0cf97",
+            "additional": {
+                "originHash": "8680bd51a3262e81f0559f782b1e424e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682598894234857:827296",
+            "name": "Files/File_1682598894225337_827286.jpg",
+            "flags": 1
+        }
+    },
+    "1682598894234857:827296": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "8680bd51a3262e81f0559f782b1e424e"
+                    },
+                    "v": "1683031178412830:1479202"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "635904",
+                "compressedSize": "74947",
+                "extension": "jpg",
+                "originalRAM": "5064300",
+                "originalSize": "157301",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682598894257431:827322"
+        }
+    },
+    "1682598894235344:827301": {
+        "IFileManager": {
+            "path": "Files/File_1682598894235344_827301.jpg"
+        }
+    },
+    "1682598894257431:827322": {
+        "IFileManager": {
+            "path": "Files/File_1682598894257431_827322.jpg"
+        }
+    },
+    "1682598894280300:827331": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Background/Freeze Backgorund.jpg",
+                "hash": "8680bd51a3262e81f0559f782b1e424e"
+            }
+        }
+    },
+    "1683031178412830:1479202": {
+        "IFileManager": {
+            "path": "Files/File_1683031178412830_1479202.pvr"
+        }
+    }
+}

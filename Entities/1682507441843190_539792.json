@@ -1,0 +1,33 @@
+{
+    "1682507441840327:539791": {
+        "IFileManager": {
+            "path": "Files/File_1682507441840327_539791.js"
+        }
+    },
+    "1682507441843190:539792": {
+        "IResourceController": {
+            "name": "QuestionManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682507441843236:539793",
+            "fileId": "1682507441840327:539791",
+            "publicId": "1682507527409989:602619",
+            "expected_hash": "715c11b6bdfaf6beaea8cf58b71f76bb"
+        },
+        "IResourceManager": {
+            "uid": "1682507441843236:539793",
+            "name": "Files/File_1682507441840327_539791.js",
+            "flags": 1
+        }
+    },
+    "1682507527409989:602619": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Scripts/QuestionManager.js",
+                "hash": "715c11b6bdfaf6beaea8cf58b71f76bb"
+            }
+        }
+    }
+}

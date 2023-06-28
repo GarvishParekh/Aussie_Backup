@@ -1,0 +1,76 @@
+{
+    "1682424145558068:38473": {
+        "IFileManager": {
+            "path": "Files/File_1682424145558068_38473"
+        }
+    },
+    "1682424145561772:38474": {
+        "IResourceController": {
+            "name": "P_Rainbow Stroke",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424145565554:38477",
+            "fileId": "1682424145558068:38473",
+            "originalId": "1682424145566088:38484",
+            "publicId": "1682424145589626:38486",
+            "expected_hash": "84d01772b9187dcd308748bf4729b29b"
+        },
+        "IResourceManager": {
+            "uid": "1682424145565554:38477",
+            "name": "Files/File_1682424145558068_38473",
+            "flags": 1
+        }
+    },
+    "1682424145565554:38477": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b768f29c646f04c409f6bbdcb11eed59"
+                    },
+                    "v": "1682424147355771:39424"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1009800",
+                "compressedSize": "5980",
+                "extension": "t3d",
+                "originalRAM": "1009800",
+                "originalSize": "29567",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424145575801:38485"
+        }
+    },
+    "1682424145566088:38484": {
+        "IFileManager": {
+            "path": "Files/File_1682424145566088_38484.gif"
+        }
+    },
+    "1682424145575801:38485": {
+        "IFileManager": {
+            "path": "Files/File_1682424145575801_38485"
+        }
+    },
+    "1682424145589626:38486": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/Purple/P_Rainbow Stroke.gif",
+                "hash": "7881ab14cc0d41acac2007c80eeb80ac"
+            }
+        }
+    },
+    "1682424147355771:39424": {
+        "IFileManager": {
+            "path": "Files/File_1682424147355771_39424"
+        }
+    }
+}

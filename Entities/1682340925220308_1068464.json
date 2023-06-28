@@ -1,0 +1,79 @@
+{
+    "1682340925217661:1068463": {
+        "IFileManager": {
+            "path": "Files/File_1682340925217661_1068463.pvr"
+        }
+    },
+    "1682340925220308:1068464": {
+        "IResourceController": {
+            "name": "Light effect",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682340925224725:1068465",
+            "fileId": "1682340925217661:1068463",
+            "originalId": "1682340925225222:1068470",
+            "publicId": "1682340925264434:1068489",
+            "expected_hash": "7d4bd8468984707464ff7e781ee943a8",
+            "additional": {
+                "originHash": "90615eac885453bf1cef1c63593da7f1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682340925224725:1068465",
+            "name": "Files/File_1682340925217661_1068463.png",
+            "flags": 1
+        }
+    },
+    "1682340925224725:1068465": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "90615eac885453bf1cef1c63593da7f1"
+                    },
+                    "v": "1682340938325801:1076124"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "561600",
+                "compressedSize": "261747",
+                "extension": "png",
+                "originalRAM": "4487040",
+                "originalSize": "277505",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682340925239687:1068474"
+        }
+    },
+    "1682340925225222:1068470": {
+        "IFileManager": {
+            "path": "Files/File_1682340925225222_1068470.png"
+        }
+    },
+    "1682340925239687:1068474": {
+        "IFileManager": {
+            "path": "Files/File_1682340925239687_1068474.png"
+        }
+    },
+    "1682340925264434:1068489": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Screen_1/Light effect.png",
+                "hash": "90615eac885453bf1cef1c63593da7f1"
+            }
+        }
+    },
+    "1682340938325801:1076124": {
+        "IFileManager": {
+            "path": "Files/File_1682340938325801_1076124.pvr"
+        }
+    }
+}

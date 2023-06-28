@@ -1,0 +1,17 @@
+{
+    "1682080856840646:160358": {
+        "IResourceController": {
+            "name": "Background Segementation Texture",
+            "type": 1,
+            "subtype": 14,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682080856770312:160336"
+        },
+        "IResourceManager": {
+            "uid": "1682080856770312:160336",
+            "name": "Portrait Head Segmentation",
+            "flags": 0
+        }
+    }
+}

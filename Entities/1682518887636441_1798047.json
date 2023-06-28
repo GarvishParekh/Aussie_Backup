@@ -1,0 +1,79 @@
+{
+    "1682518887633992:1798038": {
+        "IFileManager": {
+            "path": "Files/File_1682518887633992_1798038.pvr"
+        }
+    },
+    "1682518887636441:1798047": {
+        "IResourceController": {
+            "name": "Freeze Bottle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682518887640406:1798052",
+            "fileId": "1682518887633992:1798038",
+            "originalId": "1682518887640996:1798059",
+            "publicId": "1682518887659960:1798065",
+            "expected_hash": "9a2b5f99138158be6470185ddb1e1d30",
+            "additional": {
+                "originHash": "7d7eff36d348b392dbd87b40de802a3b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682518887640406:1798052",
+            "name": "Files/File_1682518887633992_1798038.png",
+            "flags": 1
+        }
+    },
+    "1682518887640406:1798052": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7d7eff36d348b392dbd87b40de802a3b"
+                    },
+                    "v": "1682518891170262:1807529"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "45600",
+                "compressedSize": "28062",
+                "extension": "png",
+                "originalRAM": "361600",
+                "originalSize": "75911",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682518887644260:1798062"
+        }
+    },
+    "1682518887640996:1798059": {
+        "IFileManager": {
+            "path": "Files/File_1682518887640996_1798059.png"
+        }
+    },
+    "1682518887644260:1798062": {
+        "IFileManager": {
+            "path": "Files/File_1682518887644260_1798062.png"
+        }
+    },
+    "1682518887659960:1798065": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Bottles/Freeze Bottle.png",
+                "hash": "7d7eff36d348b392dbd87b40de802a3b"
+            }
+        }
+    },
+    "1682518891170262:1807529": {
+        "IFileManager": {
+            "path": "Files/File_1682518891170262_1807529.pvr"
+        }
+    }
+}

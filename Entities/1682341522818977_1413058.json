@@ -1,0 +1,33 @@
+{
+    "1682341522808142:1413045": {
+        "IFileManager": {
+            "path": "Files/File_1682341522808142_1413045.ttf"
+        }
+    },
+    "1682341522818977:1413058": {
+        "IResourceController": {
+            "name": "Inkston",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682341522819006:1413059",
+            "fileId": "1682341522808142:1413045",
+            "publicId": "1682341522854833:1413078",
+            "expected_hash": "f477341344ef21ee8e90a65277022577"
+        },
+        "IResourceManager": {
+            "uid": "1682341522819006:1413059",
+            "name": "Files/File_1682341522808142_1413045.ttf",
+            "flags": 1
+        }
+    },
+    "1682341522854833:1413078": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/Inkston.ttf",
+                "hash": "f477341344ef21ee8e90a65277022577"
+            }
+        }
+    }
+}

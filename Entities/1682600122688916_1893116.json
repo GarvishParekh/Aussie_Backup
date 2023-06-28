@@ -1,0 +1,79 @@
+{
+    "1682600122686994:1893115": {
+        "IFileManager": {
+            "path": "Files/File_1682600122686994_1893115.pvr"
+        }
+    },
+    "1682600122688916:1893116": {
+        "IResourceController": {
+            "name": "Bottle Text Holder",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682600122691698:1893117",
+            "fileId": "1682600122686994:1893115",
+            "originalId": "1682600122692117:1893122",
+            "publicId": "1682600122723252:1893124",
+            "expected_hash": "d21c23554d34f04e43452983c5d3fd0d",
+            "additional": {
+                "originHash": "bf64875f7dab9e02ce58b9f9cc78b54c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682600122691698:1893117",
+            "name": "Files/File_1682600122686994_1893115.png",
+            "flags": 1
+        }
+    },
+    "1682600122691698:1893117": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bf64875f7dab9e02ce58b9f9cc78b54c"
+                    },
+                    "v": "1682600124316962:1895368"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "68320",
+                "compressedSize": "33218",
+                "extension": "png",
+                "originalRAM": "542376",
+                "originalSize": "88880",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682600122709202:1893123"
+        }
+    },
+    "1682600122692117:1893122": {
+        "IFileManager": {
+            "path": "Files/File_1682600122692117_1893122.png"
+        }
+    },
+    "1682600122709202:1893123": {
+        "IFileManager": {
+            "path": "Files/File_1682600122709202_1893123.png"
+        }
+    },
+    "1682600122723252:1893124": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Bottle Text Holder.png",
+                "hash": "bf64875f7dab9e02ce58b9f9cc78b54c"
+            }
+        }
+    },
+    "1682600124316962:1895368": {
+        "IFileManager": {
+            "path": "Files/File_1682600124316962_1895368.pvr"
+        }
+    }
+}

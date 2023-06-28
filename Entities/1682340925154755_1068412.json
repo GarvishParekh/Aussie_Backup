@@ -1,0 +1,42 @@
+{
+    "1682340925153333:1068411": {
+        "IFileManager": {
+            "path": "Files/File_1682340925153333_1068411.png"
+        }
+    },
+    "1682340925154755:1068412": {
+        "IResourceController": {
+            "name": "CC effect",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682340925158262:1068413",
+            "fileId": "1682340925153333:1068411",
+            "originalId": "1682340925158613:1068418",
+            "publicId": "1682340925161134:1068419",
+            "expected_hash": "997328ae9f1863be06fbf1d6d9b940d9",
+            "additional": {
+                "originHash": "7e7d963802a6b079fe4a085a22a07798"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682340925158262:1068413",
+            "name": "Files/File_1682340925153333_1068411.png",
+            "flags": 1
+        }
+    },
+    "1682340925158613:1068418": {
+        "IFileManager": {
+            "path": "Files/File_1682340925158613_1068418.png"
+        }
+    },
+    "1682340925161134:1068419": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Screen_1/CC effect.png",
+                "hash": "7e7d963802a6b079fe4a085a22a07798"
+            }
+        }
+    }
+}

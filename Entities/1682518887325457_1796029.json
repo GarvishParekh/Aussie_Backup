@@ -1,0 +1,79 @@
+{
+    "1682518887322685:1796028": {
+        "IFileManager": {
+            "path": "Files/File_1682518887322685_1796028.pvr"
+        }
+    },
+    "1682518887325457:1796029": {
+        "IResourceController": {
+            "name": "Sprunch Bottle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682518887329636:1796030",
+            "fileId": "1682518887322685:1796028",
+            "originalId": "1682518887330361:1796035",
+            "publicId": "1682518887358916:1796057",
+            "expected_hash": "aefd7003e24cf94f20cea90e8f8a47b4",
+            "additional": {
+                "originHash": "a925aadebbeaad6d4cdf2e1e9b0f9a5c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682518887329636:1796030",
+            "name": "Files/File_1682518887322685_1796028.png",
+            "flags": 1
+        }
+    },
+    "1682518887329636:1796030": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a925aadebbeaad6d4cdf2e1e9b0f9a5c"
+                    },
+                    "v": "1682518888299170:1800273"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "41952",
+                "compressedSize": "22378",
+                "extension": "png",
+                "originalRAM": "331596",
+                "originalSize": "59624",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682518887343586:1796050"
+        }
+    },
+    "1682518887330361:1796035": {
+        "IFileManager": {
+            "path": "Files/File_1682518887330361_1796035.png"
+        }
+    },
+    "1682518887343586:1796050": {
+        "IFileManager": {
+            "path": "Files/File_1682518887343586_1796050.png"
+        }
+    },
+    "1682518887358916:1796057": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Bottles/Sprunch Bottle.png",
+                "hash": "a925aadebbeaad6d4cdf2e1e9b0f9a5c"
+            }
+        }
+    },
+    "1682518888299170:1800273": {
+        "IFileManager": {
+            "path": "Files/File_1682518888299170_1800273.pvr"
+        }
+    }
+}

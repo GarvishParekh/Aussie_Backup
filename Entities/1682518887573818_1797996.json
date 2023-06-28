@@ -1,0 +1,79 @@
+{
+    "1682518887571571:1797984": {
+        "IFileManager": {
+            "path": "Files/File_1682518887571571_1797984.pvr"
+        }
+    },
+    "1682518887573818:1797996": {
+        "IResourceController": {
+            "name": "Volume Bottle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682518887577257:1798001",
+            "fileId": "1682518887571571:1797984",
+            "originalId": "1682518887577675:1798006",
+            "publicId": "1682518887598953:1798014",
+            "expected_hash": "dc678cf6c62f065373312f71cebd510d",
+            "additional": {
+                "originHash": "e8e15b2b7759e6f137ce4a66cddb0656"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682518887577257:1798001",
+            "name": "Files/File_1682518887571571_1797984.png",
+            "flags": 1
+        }
+    },
+    "1682518887577257:1798001": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e8e15b2b7759e6f137ce4a66cddb0656"
+                    },
+                    "v": "1682518890145995:1805075"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "46512",
+                "compressedSize": "23181",
+                "extension": "png",
+                "originalRAM": "368648",
+                "originalSize": "61852",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682518887580547:1798007"
+        }
+    },
+    "1682518887577675:1798006": {
+        "IFileManager": {
+            "path": "Files/File_1682518887577675_1798006.png"
+        }
+    },
+    "1682518887580547:1798007": {
+        "IFileManager": {
+            "path": "Files/File_1682518887580547_1798007.png"
+        }
+    },
+    "1682518887598953:1798014": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Bottles/Volume Bottle.png",
+                "hash": "e8e15b2b7759e6f137ce4a66cddb0656"
+            }
+        }
+    },
+    "1682518890145995:1805075": {
+        "IFileManager": {
+            "path": "Files/File_1682518890145995_1805075.pvr"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1682518873732651:1787840": {
+        "IResourceController": {
+            "name": "Bottles",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682518873732808:1787841",
+            "resources": [
+                "1682518887325457:1796029",
+                "1682518887401118:1796107",
+                "1682518887573818:1797996",
+                "1682518887636441:1798047"
+            ]
+        }
+    },
+    "1682518873732808:1787841": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Bottles"
+            }
+        }
+    }
+}

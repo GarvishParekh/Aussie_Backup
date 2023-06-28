@@ -1,0 +1,25 @@
+{
+    "1682340924999545:1068314": {
+        "IResourceController": {
+            "name": "Screen_1",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682340924999707:1068315",
+            "resources": [
+                "1682340925154755:1068412",
+                "1682340925189970:1068438",
+                "1682340925220308:1068464",
+                "1682340925286453:1068508"
+            ]
+        }
+    },
+    "1682340924999707:1068315": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Screen_1"
+            }
+        }
+    }
+}

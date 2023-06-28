@@ -1,0 +1,76 @@
+{
+    "1683031155024015:1452390": {
+        "IFileManager": {
+            "path": "Files/File_1683031155024015_1452390"
+        }
+    },
+    "1683031155027689:1452391": {
+        "IResourceController": {
+            "name": "Result Screen Gif 3",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683031155030896:1452394",
+            "fileId": "1683031155024015:1452390",
+            "originalId": "1683031155031273:1452401",
+            "publicId": "1683031155061504:1452423",
+            "expected_hash": "16e1d96765108c5c71d3842b44cc3321"
+        },
+        "IResourceManager": {
+            "uid": "1683031155030896:1452394",
+            "name": "Files/File_1683031155024015_1452390",
+            "flags": 1
+        }
+    },
+    "1683031155030896:1452394": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4d34ac5a73cf493811e466b7b79a4ced"
+                    },
+                    "v": "1683031155289359:1452613"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "999600",
+                "compressedSize": "27669",
+                "extension": "t3d",
+                "originalRAM": "999600",
+                "originalSize": "141559",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683031155042522:1452402"
+        }
+    },
+    "1683031155031273:1452401": {
+        "IFileManager": {
+            "path": "Files/File_1683031155031273_1452401.gif"
+        }
+    },
+    "1683031155042522:1452402": {
+        "IFileManager": {
+            "path": "Files/File_1683031155042522_1452402"
+        }
+    },
+    "1683031155061504:1452423": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Result Screen/Gifs/Result Screen Gif 3.gif",
+                "hash": "2e99f7662f67f75d0d45e9d0a5ad2fbf"
+            }
+        }
+    },
+    "1683031155289359:1452613": {
+        "IFileManager": {
+            "path": "Files/File_1683031155289359_1452613"
+        }
+    }
+}

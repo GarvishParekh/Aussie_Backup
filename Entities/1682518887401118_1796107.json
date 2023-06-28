@@ -1,0 +1,79 @@
+{
+    "1682518887398676:1796092": {
+        "IFileManager": {
+            "path": "Files/File_1682518887398676_1796092.pvr"
+        }
+    },
+    "1682518887401118:1796107": {
+        "IResourceController": {
+            "name": "Mega Bottle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682518887404026:1796112",
+            "fileId": "1682518887398676:1796092",
+            "originalId": "1682518887404435:1796117",
+            "publicId": "1682518887423682:1796121",
+            "expected_hash": "8e6523d55031a3c263eada4fee9d58b8",
+            "additional": {
+                "originHash": "53088e75284f0d1e1c20942de4074a71"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682518887404026:1796112",
+            "name": "Files/File_1682518887398676_1796092.png",
+            "flags": 1
+        }
+    },
+    "1682518887404026:1796112": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "53088e75284f0d1e1c20942de4074a71"
+                    },
+                    "v": "1682518889198288:1802656"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "43392",
+                "compressedSize": "21367",
+                "extension": "png",
+                "originalRAM": "342760",
+                "originalSize": "60809",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682518887407326:1796118"
+        }
+    },
+    "1682518887404435:1796117": {
+        "IFileManager": {
+            "path": "Files/File_1682518887404435_1796117.png"
+        }
+    },
+    "1682518887407326:1796118": {
+        "IFileManager": {
+            "path": "Files/File_1682518887407326_1796118.png"
+        }
+    },
+    "1682518887423682:1796121": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Bottles/Mega Bottle.png",
+                "hash": "53088e75284f0d1e1c20942de4074a71"
+            }
+        }
+    },
+    "1682518889198288:1802656": {
+        "IFileManager": {
+            "path": "Files/File_1682518889198288_1802656.pvr"
+        }
+    }
+}

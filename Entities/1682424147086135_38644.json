@@ -1,0 +1,76 @@
+{
+    "1682424147081663:38643": {
+        "IFileManager": {
+            "path": "Files/File_1682424147081663_38643"
+        }
+    },
+    "1682424147086135:38644": {
+        "IResourceController": {
+            "name": "W_WaveStar",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424147089700:38647",
+            "fileId": "1682424147081663:38643",
+            "originalId": "1682424147090316:38654",
+            "publicId": "1682424147140568:38656",
+            "expected_hash": "1ead8b6b71f195caeda7d64e1c275763"
+        },
+        "IResourceManager": {
+            "uid": "1682424147089700:38647",
+            "name": "Files/File_1682424147081663_38643",
+            "flags": 1
+        }
+    },
+    "1682424147089700:38647": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "39c6d18098ba7b46d70cfedd09285e15"
+                    },
+                    "v": "1682424150611118:42978"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "14764900",
+                "compressedSize": "151244",
+                "extension": "t3d",
+                "originalRAM": "14764900",
+                "originalSize": "451802",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424147100205:38655"
+        }
+    },
+    "1682424147090316:38654": {
+        "IFileManager": {
+            "path": "Files/File_1682424147090316_38654.gif"
+        }
+    },
+    "1682424147100205:38655": {
+        "IFileManager": {
+            "path": "Files/File_1682424147100205_38655"
+        }
+    },
+    "1682424147140568:38656": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/White/W_WaveStar.gif",
+                "hash": "62fc6b3676586a03c871d8fff905a885"
+            }
+        }
+    },
+    "1682424150611118:42978": {
+        "IFileManager": {
+            "path": "Files/File_1682424150611118_42978"
+        }
+    }
+}

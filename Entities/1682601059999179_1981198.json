@@ -1,0 +1,26 @@
+{
+    "1682601059999179:1981198": {
+        "IResourceController": {
+            "name": "Final Screen Text",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682601059999329:1981199",
+            "resources": [
+                "1683123437645141:87239",
+                "1683123437740087:87323",
+                "1683123437864600:88329",
+                "1683123438078129:91185",
+                "1683123438141404:91237"
+            ]
+        }
+    },
+    "1682601059999329:1981199": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Final Screen Text"
+            }
+        }
+    }
+}

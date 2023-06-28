@@ -1,0 +1,79 @@
+{
+    "1682339049606062:89332": {
+        "IFileManager": {
+            "path": "Files/File_1682339049606062_89332.pvr"
+        }
+    },
+    "1682339049608237:89333": {
+        "IResourceController": {
+            "name": "Front Side Logo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682339049609063:89334",
+            "fileId": "1682339049606062:89332",
+            "originalId": "1682339049609529:89339",
+            "publicId": "1682339049619025:89353",
+            "expected_hash": "dcaa726f438ba7b9093a4db3c56b7b4a",
+            "additional": {
+                "originHash": "6622a5dc1870821592c8754cd1e900db"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682339049609063:89334",
+            "name": "Files/File_1682339049606062_89332.png",
+            "flags": 1
+        }
+    },
+    "1682339049609063:89334": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6622a5dc1870821592c8754cd1e900db"
+                    },
+                    "v": "1682424198568464:50889"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "11160",
+                "compressedSize": "3873",
+                "extension": "png",
+                "originalRAM": "86636",
+                "originalSize": "8370",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424198220126:50087"
+        }
+    },
+    "1682339049609529:89339": {
+        "IFileManager": {
+            "path": "Files/File_1682339049609529_89339.png"
+        }
+    },
+    "1682339049619025:89353": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Front Side Logo.png",
+                "hash": "6622a5dc1870821592c8754cd1e900db"
+            }
+        }
+    },
+    "1682424198220126:50087": {
+        "IFileManager": {
+            "path": "Files/File_1682424198220126_50087.png"
+        }
+    },
+    "1682424198568464:50889": {
+        "IFileManager": {
+            "path": "Files/File_1682424198568464_50889.pvr"
+        }
+    }
+}

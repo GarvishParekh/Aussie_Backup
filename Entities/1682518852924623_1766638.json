@@ -1,0 +1,27 @@
+{
+    "1682518852924623:1766638": {
+        "IResourceController": {
+            "name": "Result Screen",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682518852924784:1766639",
+            "resources": [
+                "1682518603771202:1559663",
+                "1683031106742314:1415970",
+                "1683031145940323:1446918",
+                "1683031867161607:1995775",
+                "1683118177058161:55816",
+                "1683118177125337:55840"
+            ]
+        }
+    },
+    "1682518852924784:1766639": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Result Screen"
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1682424146585531:38615": {
+        "IFileManager": {
+            "path": "Files/File_1682424146585531_38615"
+        }
+    },
+    "1682424146589476:38616": {
+        "IResourceController": {
+            "name": "W_Heart_1",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424146593172:38619",
+            "fileId": "1682424146585531:38615",
+            "originalId": "1682424146593908:38626",
+            "publicId": "1682424146637731:38628",
+            "expected_hash": "454d3a899269351a5ee0271909f76c85"
+        },
+        "IResourceManager": {
+            "uid": "1682424146593172:38619",
+            "name": "Files/File_1682424146585531_38615",
+            "flags": 1
+        }
+    },
+    "1682424146593172:38619": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "df2a941ef2e72a506d59add8c1c689a0"
+                    },
+                    "v": "1682424149245172:41578"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "15320448",
+                "compressedSize": "81394",
+                "extension": "t3d",
+                "originalRAM": "15320448",
+                "originalSize": "308947",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424146602834:38627"
+        }
+    },
+    "1682424146593908:38626": {
+        "IFileManager": {
+            "path": "Files/File_1682424146593908_38626.gif"
+        }
+    },
+    "1682424146602834:38627": {
+        "IFileManager": {
+            "path": "Files/File_1682424146602834_38627"
+        }
+    },
+    "1682424146637731:38628": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/White/W_Heart_1.gif",
+                "hash": "c89e5ebfde2b87b68177a0977f3fafdd"
+            }
+        }
+    },
+    "1682424149245172:41578": {
+        "IFileManager": {
+            "path": "Files/File_1682424149245172_41578"
+        }
+    }
+}

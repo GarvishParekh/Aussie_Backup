@@ -1,0 +1,39 @@
+{
+    "1682946410831231:115951": {
+        "IFileManager": {
+            "path": "Files/File_1682946410831231_115951"
+        }
+    },
+    "1682946410836252:115952": {
+        "IResourceController": {
+            "name": "Sprunch effect",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682946410840318:115955",
+            "fileId": "1682946410831231:115951",
+            "originalId": "1682946410840987:115962",
+            "publicId": "1682946410850101:115963",
+            "expected_hash": "bece0394d3dd60c86ae33aca6502d497"
+        },
+        "IResourceManager": {
+            "uid": "1682946410840318:115955",
+            "name": "Files/File_1682946410831231_115951",
+            "flags": 1
+        }
+    },
+    "1682946410840987:115962": {
+        "IFileManager": {
+            "path": "Files/File_1682946410840987_115962.gif"
+        }
+    },
+    "1682946410850101:115963": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Effect/Sprunch effect.gif",
+                "hash": "81fba0d6a381c9771e4323281c2be565"
+            }
+        }
+    }
+}

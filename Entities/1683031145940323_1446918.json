@@ -1,0 +1,25 @@
+{
+    "1683031145940323:1446918": {
+        "IResourceController": {
+            "name": "Gifs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683031145940579:1446919",
+            "resources": [
+                "1683031155027689:1452391",
+                "1683031155106380:1452461",
+                "1683031155242772:1452562",
+                "1683031155343936:1452647"
+            ]
+        }
+    },
+    "1683031145940579:1446919": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Result Screen/Gifs"
+            }
+        }
+    }
+}

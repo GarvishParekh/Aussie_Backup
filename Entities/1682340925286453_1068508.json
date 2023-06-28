@@ -1,0 +1,79 @@
+{
+    "1682340925284211:1068507": {
+        "IFileManager": {
+            "path": "Files/File_1682340925284211_1068507.pvr"
+        }
+    },
+    "1682340925286453:1068508": {
+        "IResourceController": {
+            "name": "Segm effect 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682340925290653:1068509",
+            "fileId": "1682340925284211:1068507",
+            "originalId": "1682340925291146:1068514",
+            "publicId": "1682340925325255:1068533",
+            "expected_hash": "6e885dc520ce4a78305be6f50c10f9c9",
+            "additional": {
+                "originHash": "ec63cc5f97f747551c622fdc056a1556"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682340925290653:1068509",
+            "name": "Files/File_1682340925284211_1068507.png",
+            "flags": 1
+        }
+    },
+    "1682340925290653:1068509": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ec63cc5f97f747551c622fdc056a1556"
+                    },
+                    "v": "1682340942992665:1080682"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "561600",
+                "compressedSize": "102960",
+                "extension": "png",
+                "originalRAM": "4487040",
+                "originalSize": "212561",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682340925302734:1068518"
+        }
+    },
+    "1682340925291146:1068514": {
+        "IFileManager": {
+            "path": "Files/File_1682340925291146_1068514.png"
+        }
+    },
+    "1682340925302734:1068518": {
+        "IFileManager": {
+            "path": "Files/File_1682340925302734_1068518.png"
+        }
+    },
+    "1682340925325255:1068533": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Screen_1/Segm effect 2.png",
+                "hash": "ec63cc5f97f747551c622fdc056a1556"
+            }
+        }
+    },
+    "1682340942992665:1080682": {
+        "IFileManager": {
+            "path": "Files/File_1682340942992665_1080682.pvr"
+        }
+    }
+}

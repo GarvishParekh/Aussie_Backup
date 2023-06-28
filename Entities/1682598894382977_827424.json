@@ -1,0 +1,25 @@
+{
+    "1682598894382977:827424": {
+        "IResourceController": {
+            "name": "Effect",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682598894383121:827425",
+            "resources": [
+                "1682946408668927:111175",
+                "1682946409747278:113569",
+                "1682946410836252:115952",
+                "1683120234328245:1208372"
+            ]
+        }
+    },
+    "1682598894383121:827425": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Effect"
+            }
+        }
+    }
+}

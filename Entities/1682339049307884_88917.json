@@ -1,0 +1,79 @@
+{
+    "1682339049306152:88916": {
+        "IFileManager": {
+            "path": "Files/File_1682339049306152_88916.pvr"
+        }
+    },
+    "1682339049307884:88917": {
+        "IResourceController": {
+            "name": "BT_1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682339049308540:88918",
+            "fileId": "1682339049306152:88916",
+            "originalId": "1682339049308944:88923",
+            "publicId": "1682339049316598:88925",
+            "expected_hash": "06528cbe57bdad98da81f4e4670fa799",
+            "additional": {
+                "originHash": "6a68b76e09ccc5a6ce32e90afb327817"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682339049308540:88918",
+            "name": "Files/File_1682339049306152_88916.png",
+            "flags": 1
+        }
+    },
+    "1682339049308540:88918": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6a68b76e09ccc5a6ce32e90afb327817"
+                    },
+                    "v": "1682339052411894:91611"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12936",
+                "compressedSize": "1344",
+                "extension": "png",
+                "originalRAM": "99468",
+                "originalSize": "2794",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682339049311789:88924"
+        }
+    },
+    "1682339049308944:88923": {
+        "IFileManager": {
+            "path": "Files/File_1682339049308944_88923.png"
+        }
+    },
+    "1682339049311789:88924": {
+        "IFileManager": {
+            "path": "Files/File_1682339049311789_88924.png"
+        }
+    },
+    "1682339049316598:88925": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Quiz Effect/BT_1.png",
+                "hash": "6a68b76e09ccc5a6ce32e90afb327817"
+            }
+        }
+    },
+    "1682339052411894:91611": {
+        "IFileManager": {
+            "path": "Files/File_1682339052411894_91611.pvr"
+        }
+    }
+}

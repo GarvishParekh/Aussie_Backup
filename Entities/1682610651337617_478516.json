@@ -1,0 +1,79 @@
+{
+    "1682610651323101:478513": {
+        "IFileManager": {
+            "path": "Files/File_1682610651323101_478513.pvr"
+        }
+    },
+    "1682610651337617:478516": {
+        "IResourceController": {
+            "name": "Aussie_Logo_Reverse_RGB",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682610651338223:478517",
+            "fileId": "1682610651323101:478513",
+            "originalId": "1682610651338922:478522",
+            "publicId": "1682610651392189:478542",
+            "expected_hash": "f8c2157f12f03c973d628f38d529ff44",
+            "additional": {
+                "originHash": "7b0218ce4679552bb1c0421178a1bdb4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682610651338223:478517",
+            "name": "Files/File_1682610651323101_478513.png",
+            "flags": 1
+        }
+    },
+    "1682610651338223:478517": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7b0218ce4679552bb1c0421178a1bdb4"
+                    },
+                    "v": "1682610651800985:481249"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "44096",
+                "compressedSize": "7721",
+                "extension": "png",
+                "originalRAM": "346904",
+                "originalSize": "14433",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682610651357412:478523"
+        }
+    },
+    "1682610651338922:478522": {
+        "IFileManager": {
+            "path": "Files/File_1682610651338922_478522.png"
+        }
+    },
+    "1682610651357412:478523": {
+        "IFileManager": {
+            "path": "Files/File_1682610651357412_478523.png"
+        }
+    },
+    "1682610651392189:478542": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Aussie_Logo_Reverse_RGB.png",
+                "hash": "7b0218ce4679552bb1c0421178a1bdb4"
+            }
+        }
+    },
+    "1682610651800985:481249": {
+        "IFileManager": {
+            "path": "Files/File_1682610651800985_481249.pvr"
+        }
+    }
+}

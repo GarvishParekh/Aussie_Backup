@@ -1,0 +1,22 @@
+{
+    "1682339049475540:89034": {
+        "IResourceController": {
+            "name": "Screen Effect",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682339049475700:89035",
+            "resources": [
+                "1682339049496813:89039"
+            ]
+        }
+    },
+    "1682339049475700:89035": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Screen Effect"
+            }
+        }
+    }
+}

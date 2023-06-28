@@ -1,0 +1,33 @@
+{
+    "1676560423062149:305": {
+        "IResourceController": {
+            "name": "DevTools",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654260310101373:37152",
+            "fileId": "1676560423062185:338",
+            "publicId": "1676560423062200:377",
+            "expected_hash": "a6265d7a01a9a592f02c2860c4e5fa82"
+        },
+        "IResourceManager": {
+            "uid": "1654260310101373:37152",
+            "name": "Files/File_1676560423062185_338.js",
+            "flags": 1
+        }
+    },
+    "1676560423062185:338": {
+        "IFileManager": {
+            "path": "Files/File_1676560423062185_338.js"
+        }
+    },
+    "1676560423062200:377": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/DevTools.js",
+                "hash": "a6265d7a01a9a592f02c2860c4e5fa82"
+            }
+        }
+    }
+}

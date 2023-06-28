@@ -1,0 +1,76 @@
+{
+    "1682424146216287:38573": {
+        "IFileManager": {
+            "path": "Files/File_1682424146216287_38573"
+        }
+    },
+    "1682424146220619:38574": {
+        "IResourceController": {
+            "name": "W_Big Hairs",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424146224335:38577",
+            "fileId": "1682424146216287:38573",
+            "originalId": "1682424146224804:38584",
+            "publicId": "1682424146254845:38586",
+            "expected_hash": "a4efa34bf0bf62b134fd594541c0bd77"
+        },
+        "IResourceManager": {
+            "uid": "1682424146224335:38577",
+            "name": "Files/File_1682424146216287_38573",
+            "flags": 1
+        }
+    },
+    "1682424146224335:38577": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6357e87fa751fdf04359369eb5de1878"
+                    },
+                    "v": "1682424148511071:40863"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4039200",
+                "compressedSize": "71145",
+                "extension": "t3d",
+                "originalRAM": "4039200",
+                "originalSize": "203426",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424146235231:38585"
+        }
+    },
+    "1682424146224804:38584": {
+        "IFileManager": {
+            "path": "Files/File_1682424146224804_38584.gif"
+        }
+    },
+    "1682424146235231:38585": {
+        "IFileManager": {
+            "path": "Files/File_1682424146235231_38585"
+        }
+    },
+    "1682424146254845:38586": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/White/W_Big Hairs.gif",
+                "hash": "6b5c40fffc73c4fb59426f3c5e75eea1"
+            }
+        }
+    },
+    "1682424148511071:40863": {
+        "IFileManager": {
+            "path": "Files/File_1682424148511071_40863"
+        }
+    }
+}

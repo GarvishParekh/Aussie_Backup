@@ -1,0 +1,76 @@
+{
+    "1682424146313304:38587": {
+        "IFileManager": {
+            "path": "Files/File_1682424146313304_38587"
+        }
+    },
+    "1682424146316859:38588": {
+        "IResourceController": {
+            "name": "W_Curl Love",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424146320465:38591",
+            "fileId": "1682424146313304:38587",
+            "originalId": "1682424146320999:38598",
+            "publicId": "1682424146346163:38600",
+            "expected_hash": "ccb13c01032dae42b9024aa11732dd1e"
+        },
+        "IResourceManager": {
+            "uid": "1682424146320465:38591",
+            "name": "Files/File_1682424146313304_38587",
+            "flags": 1
+        }
+    },
+    "1682424146320465:38591": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e41e929d3ba808d7bc5c8fc94a506965"
+                    },
+                    "v": "1682424148717615:40871"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4080000",
+                "compressedSize": "52614",
+                "extension": "t3d",
+                "originalRAM": "4080000",
+                "originalSize": "149060",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424146329599:38599"
+        }
+    },
+    "1682424146320999:38598": {
+        "IFileManager": {
+            "path": "Files/File_1682424146320999_38598.gif"
+        }
+    },
+    "1682424146329599:38599": {
+        "IFileManager": {
+            "path": "Files/File_1682424146329599_38599"
+        }
+    },
+    "1682424146346163:38600": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/White/W_Curl Love.gif",
+                "hash": "cd0f31e02ac0ec5cfbbd478f7068b616"
+            }
+        }
+    },
+    "1682424148717615:40871": {
+        "IFileManager": {
+            "path": "Files/File_1682424148717615_40871"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1682424145653779:38487": {
+        "IFileManager": {
+            "path": "Files/File_1682424145653779_38487"
+        }
+    },
+    "1682424145658018:38488": {
+        "IResourceController": {
+            "name": "P_Single Stroke",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682424145661235:38491",
+            "fileId": "1682424145653779:38487",
+            "originalId": "1682424145661684:38498",
+            "publicId": "1682424145686537:38500",
+            "expected_hash": "5a6d964e3e1c47ea8b7f4c9938854e6e"
+        },
+        "IResourceManager": {
+            "uid": "1682424145661235:38491",
+            "name": "Files/File_1682424145653779_38487",
+            "flags": 1
+        }
+    },
+    "1682424145661235:38491": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "aadcd9cdb625ba4246024458643784d6"
+                    },
+                    "v": "1682424147478437:39432"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "3833856",
+                "compressedSize": "16271",
+                "extension": "t3d",
+                "originalRAM": "3833856",
+                "originalSize": "96871",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682424145671956:38499"
+        }
+    },
+    "1682424145661684:38498": {
+        "IFileManager": {
+            "path": "Files/File_1682424145661684_38498.gif"
+        }
+    },
+    "1682424145671956:38499": {
+        "IFileManager": {
+            "path": "Files/File_1682424145671956_38499"
+        }
+    },
+    "1682424145686537:38500": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/Purple/P_Single Stroke.gif",
+                "hash": "0fd856cad36fac7892a3b848cf0787ce"
+            }
+        }
+    },
+    "1682424147478437:39432": {
+        "IFileManager": {
+            "path": "Files/File_1682424147478437_39432"
+        }
+    }
+}

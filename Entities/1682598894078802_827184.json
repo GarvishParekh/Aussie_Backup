@@ -1,0 +1,25 @@
+{
+    "1682598894078802:827184": {
+        "IResourceController": {
+            "name": "Background",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682598894078977:827185",
+            "resources": [
+                "1682598894106714:827206",
+                "1682598894296117:827345",
+                "1682598894344310:827377",
+                "1682598894230584:827295"
+            ]
+        }
+    },
+    "1682598894078977:827185": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Background"
+            }
+        }
+    }
+}

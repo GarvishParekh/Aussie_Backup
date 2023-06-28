@@ -1,0 +1,23 @@
+{
+    "1682424145208186:38441": {
+        "IResourceController": {
+            "name": "Doodle Gifs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682424145208737:38442",
+            "resources": [
+                "1682424145209839:38443",
+                "1682424146147395:38571"
+            ]
+        }
+    },
+    "1682424145208737:38442": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1682427264116253:1646607": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682427264116469:1646608",
+            "resources": [
+                "1682427264055760:1646598"
+            ]
+        }
+    },
+    "1682427264116469:1646608": {
+        "IResourceController": {
+            "public": {
+                "path": "Bokeh VFX Resources/VFX"
+            }
+        }
+    }
+}

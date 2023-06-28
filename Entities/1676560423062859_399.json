@@ -1,0 +1,20 @@
+{
+    "1676560423062193:349": {
+        "IResourceController": {
+            "public": {
+                "path": "Sounds"
+            }
+        }
+    },
+    "1676560423062859:399": {
+        "IResourceController": {
+            "name": "Sounds",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1676560423062193:349",
+            "resources": []
+        }
+    }
+}

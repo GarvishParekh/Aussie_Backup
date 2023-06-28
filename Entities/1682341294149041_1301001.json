@@ -1,0 +1,33 @@
+{
+    "1682341294146728:1300998": {
+        "IFileManager": {
+            "path": "Files/File_1682341294146728_1300998.js"
+        }
+    },
+    "1682341294149041:1301001": {
+        "IResourceController": {
+            "name": "Quiz Manager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682341294149072:1301002",
+            "fileId": "1682341294146728:1300998",
+            "publicId": "1682341294163798:1301019",
+            "expected_hash": "64a9702ad25ede585dad6bb861315933"
+        },
+        "IResourceManager": {
+            "uid": "1682341294149072:1301002",
+            "name": "Files/File_1682341294146728_1300998.js",
+            "flags": 1
+        }
+    },
+    "1682341294163798:1301019": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Scripts/Quiz Manager.js",
+                "hash": "64a9702ad25ede585dad6bb861315933"
+            }
+        }
+    }
+}

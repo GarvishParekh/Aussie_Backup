@@ -1,0 +1,79 @@
+{
+    "1682427264007402:1646564": {
+        "IFileManager": {
+            "path": "Files/File_1682427264007402_1646564.pvr"
+        }
+    },
+    "1682427264008954:1646565": {
+        "IResourceController": {
+            "name": "bokeh",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682427264011687:1646566",
+            "fileId": "1682427264007402:1646564",
+            "originalId": "1682427264012061:1646571",
+            "publicId": "1682427264040005:1646584",
+            "expected_hash": "27ea728309dcfc87446479148583350c",
+            "additional": {
+                "originHash": "8209c718b2eac7c0ed76469167d677f3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682427264011687:1646566",
+            "name": "Files/File_1682427264007402_1646564.jpg",
+            "flags": 1
+        }
+    },
+    "1682427264011687:1646566": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8209c718b2eac7c0ed76469167d677f3"
+                    },
+                    "v": "1682427264836926:1646967"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "4203",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "18283",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682427264027138:1646581"
+        }
+    },
+    "1682427264012061:1646571": {
+        "IFileManager": {
+            "path": "Files/File_1682427264012061_1646571.png"
+        }
+    },
+    "1682427264027138:1646581": {
+        "IFileManager": {
+            "path": "Files/File_1682427264027138_1646581.png"
+        }
+    },
+    "1682427264040005:1646584": {
+        "IResourceController": {
+            "public": {
+                "path": "Bokeh VFX Resources/Textures/bokeh.png",
+                "hash": "8209c718b2eac7c0ed76469167d677f3"
+            }
+        }
+    },
+    "1682427264836926:1646967": {
+        "IFileManager": {
+            "path": "Files/File_1682427264836926_1646967.pvr"
+        }
+    }
+}

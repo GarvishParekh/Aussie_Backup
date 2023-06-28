@@ -1,0 +1,79 @@
+{
+    "1682339049417061:88984": {
+        "IFileManager": {
+            "path": "Files/File_1682339049417061_88984.pvr"
+        }
+    },
+    "1682339049419226:88985": {
+        "IResourceController": {
+            "name": "Emojis_2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682339049422234:88986",
+            "fileId": "1682339049417061:88984",
+            "originalId": "1682339049422673:88991",
+            "publicId": "1682339049440465:89007",
+            "expected_hash": "a462e17d00234a2b0f466b1f5fdfb360",
+            "additional": {
+                "originHash": "2627be02e25d19aa62120f984fbddba4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682339049422234:88986",
+            "name": "Files/File_1682339049417061_88984.png",
+            "flags": 1
+        }
+    },
+    "1682339049422234:88986": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2627be02e25d19aa62120f984fbddba4"
+                    },
+                    "v": "1682339053541932:92682"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "8203",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "28107",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682339049426056:88994"
+        }
+    },
+    "1682339049422673:88991": {
+        "IFileManager": {
+            "path": "Files/File_1682339049422673_88991.png"
+        }
+    },
+    "1682339049426056:88994": {
+        "IFileManager": {
+            "path": "Files/File_1682339049426056_88994.png"
+        }
+    },
+    "1682339049440465:89007": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Quiz Effect/Emojis_2.png",
+                "hash": "2627be02e25d19aa62120f984fbddba4"
+            }
+        }
+    },
+    "1682339053541932:92682": {
+        "IFileManager": {
+            "path": "Files/File_1682339053541932_92682.pvr"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1682427264022357:1646579": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682427264022438:1646580",
+            "resources": [
+                "1682427264008954:1646565"
+            ]
+        }
+    },
+    "1682427264022438:1646580": {
+        "IResourceController": {
+            "public": {
+                "path": "Bokeh VFX Resources/Textures"
+            }
+        }
+    }
+}

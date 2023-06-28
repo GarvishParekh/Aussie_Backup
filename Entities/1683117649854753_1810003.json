@@ -1,0 +1,79 @@
+{
+    "1683117649845431:1809984": {
+        "IFileManager": {
+            "path": "Files/File_1683117649845431_1809984.pvr"
+        }
+    },
+    "1683117649854753:1810003": {
+        "IResourceController": {
+            "name": "Back Side Logo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683117649855446:1810004",
+            "fileId": "1683117649845431:1809984",
+            "originalId": "1683117649855831:1810009",
+            "publicId": "1683117649879871:1810013",
+            "expected_hash": "91bf4357350acf6fed391a2625ed3b96",
+            "additional": {
+                "originHash": "6d0d9c559ba1a1e5800d89519d1beddb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683117649855446:1810004",
+            "name": "Files/File_1683117649845431_1809984.png",
+            "flags": 1
+        }
+    },
+    "1683117649855446:1810004": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6d0d9c559ba1a1e5800d89519d1beddb"
+                    },
+                    "v": "1683117650058047:1811012"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9720",
+                "compressedSize": "3651",
+                "extension": "png",
+                "originalRAM": "75896",
+                "originalSize": "4607",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683117649870574:1810010"
+        }
+    },
+    "1683117649855831:1810009": {
+        "IFileManager": {
+            "path": "Files/File_1683117649855831_1810009.png"
+        }
+    },
+    "1683117649870574:1810010": {
+        "IFileManager": {
+            "path": "Files/File_1683117649870574_1810010.png"
+        }
+    },
+    "1683117649879871:1810013": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Selfie Side Texture/Back Side Logo.png",
+                "hash": "6d0d9c559ba1a1e5800d89519d1beddb"
+            }
+        }
+    },
+    "1683117650058047:1811012": {
+        "IFileManager": {
+            "path": "Files/File_1683117650058047_1811012.pvr"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "1682424146147395:38571": {
+        "IResourceController": {
+            "name": "White",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682424146147563:38572",
+            "resources": [
+                "1682424146220619:38574",
+                "1682424146316859:38588",
+                "1682424146369500:38602",
+                "1682424146589476:38616",
+                "1682424146858415:38630",
+                "1682424147086135:38644"
+            ]
+        }
+    },
+    "1682424146147563:38572": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Doodle Gifs/White"
+            }
+        }
+    }
+}

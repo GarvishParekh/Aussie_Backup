@@ -1,0 +1,79 @@
+{
+    "1682598894102239:827204": {
+        "IFileManager": {
+            "path": "Files/File_1682598894102239_827204.pvr"
+        }
+    },
+    "1682598894106714:827206": {
+        "IResourceController": {
+            "name": "Mega Background",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682598894120928:827226",
+            "fileId": "1682598894102239:827204",
+            "originalId": "1682598894128655:827231",
+            "publicId": "1682598894200095:827273",
+            "expected_hash": "0a1281a14c6562bf6b0d1ad325f5011a",
+            "additional": {
+                "originHash": "228f194e9b35ab0c8ec1a0fc966cd2e2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682598894120928:827226",
+            "name": "Files/File_1682598894102239_827204.jpg",
+            "flags": 1
+        }
+    },
+    "1682598894120928:827226": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "228f194e9b35ab0c8ec1a0fc966cd2e2"
+                    },
+                    "v": "1683031176387851:1475477"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "561600",
+                "compressedSize": "20665",
+                "extension": "jpg",
+                "originalRAM": "4487040",
+                "originalSize": "65073",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682598894141717:827234"
+        }
+    },
+    "1682598894128655:827231": {
+        "IFileManager": {
+            "path": "Files/File_1682598894128655_827231.jpg"
+        }
+    },
+    "1682598894141717:827234": {
+        "IFileManager": {
+            "path": "Files/File_1682598894141717_827234.jpg"
+        }
+    },
+    "1682598894200095:827273": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Effect Folder/Background/Mega Background.jpg",
+                "hash": "228f194e9b35ab0c8ec1a0fc966cd2e2"
+            }
+        }
+    },
+    "1683031176387851:1475477": {
+        "IFileManager": {
+            "path": "Files/File_1683031176387851_1475477.pvr"
+        }
+    }
+}

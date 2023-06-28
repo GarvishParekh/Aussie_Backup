@@ -1,0 +1,79 @@
+{
+    "1683118177122787:55839": {
+        "IFileManager": {
+            "path": "Files/File_1683118177122787_55839.pvr"
+        }
+    },
+    "1683118177125337:55840": {
+        "IResourceController": {
+            "name": "gold sparkles",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683118177128512:55841",
+            "fileId": "1683118177122787:55839",
+            "originalId": "1683118177128934:55846",
+            "publicId": "1683118177146411:55848",
+            "expected_hash": "e3f9716185822af45950e3aba5b93a13",
+            "additional": {
+                "originHash": "cf70d65974d11fbd6b885f3c77f8b303"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683118177128512:55841",
+            "name": "Files/File_1683118177122787_55839.png",
+            "flags": 1
+        }
+    },
+    "1683118177128512:55841": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cf70d65974d11fbd6b885f3c77f8b303"
+                    },
+                    "v": "1683118177428376:59069"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "17358",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "33583",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683118177132913:55847"
+        }
+    },
+    "1683118177128934:55846": {
+        "IFileManager": {
+            "path": "Files/File_1683118177128934_55846.png"
+        }
+    },
+    "1683118177132913:55847": {
+        "IFileManager": {
+            "path": "Files/File_1683118177132913_55847.png"
+        }
+    },
+    "1683118177146411:55848": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Custom Textures/Result Screen/gold sparkles.png",
+                "hash": "cf70d65974d11fbd6b885f3c77f8b303"
+            }
+        }
+    },
+    "1683118177428376:59069": {
+        "IFileManager": {
+            "path": "Files/File_1683118177428376_59069.pvr"
+        }
+    }
+}
